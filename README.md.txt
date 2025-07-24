@@ -3,8 +3,6 @@
 Este repositório contém o código-fonte da API criada no vídeo do canal **Código Prático**:  
 *Como Criar uma API Grátis com Node.js*
 
-Assista ao vídeo: [https://youtube.com/@codigopratico](https://youtube.com/@codigopratico) para saber como hospedar no AlwaysData de forma gratuita.
-
 ---
 
 ## Tecnologias Utilizadas
@@ -22,7 +20,6 @@ Assista ao vídeo: [https://youtube.com/@codigopratico](https://youtube.com/@cod
 docker-compose up -d
 ```
 
-
 ---
 
 ## Rotas
@@ -32,5 +29,17 @@ GET /users
 GET /users/:id
 ```
 
+---
+
+## Hospedagem gratuita
 
 
+Assista ao vídeo: [https://youtube.com/@codigopratico](https://youtube.com/@codigopratico) para saber como hospedar no AlwaysData de forma gratuita.
+
+---
+
+## Contribuições
+
+Pull requests e sugestões são muito bem-vindos!
+
+Desenvolvido por [https://youtube.com/@codigopratico](https://youtube.com/@codigopratico)
