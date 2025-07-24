@@ -34,7 +34,7 @@ GET /users/:id
 ## Hospedagem gratuita
 
 
-Assista ao vídeo: [https://youtube.com/@codigopratico](https://youtube.com/@codigopratico) para saber como hospedar no AlwaysData de forma gratuita.
+Assista ao vídeo: [[https://youtube.com/@codigopratico](https://youtu.be/t6ADvGqeXro)]([https://youtube.com/@codigopratico](https://youtu.be/t6ADvGqeXro)) para saber como hospedar no AlwaysData de forma gratuita.
 
 ---
 
